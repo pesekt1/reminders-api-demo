@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/f2741549-c57b-4440-a615-e8ef094d1f5b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/reminders-server",
+  "appService.deploySubpath": "."
+}
